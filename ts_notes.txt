@@ -1,0 +1,3 @@
+reference: https://www.typescriptlang.org/
+
+typescript installed globally on my pc
